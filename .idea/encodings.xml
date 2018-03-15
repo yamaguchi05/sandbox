@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/adapter/DB/DatabaseConnection.php" charset="windows-31j" />
-    <file url="file://$PROJECT_DIR$/log/log/src/batch.php" charset="windows-31j" />
-    <file url="file://$PROJECT_DIR$/updateSite/UpdateSite.php" charset="windows-31j" />
-    <file url="file://$PROJECT_DIR$/updateSite/data/updateDate.txt" charset="windows-31j" />
-  </component>
-</project>
