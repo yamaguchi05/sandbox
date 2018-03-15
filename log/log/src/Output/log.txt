@@ -1,0 +1,13 @@
+ERROR : file log : error log 
+WARN : file log : warning log 
+INFO : file log : info log 
+ERROR : file log : error log 
+WARN : file log : warning log 
+INFO : file log : info log 
+ERROR : file log : error log 
+WARN : file log : warning log 
+INFO : file log : info log 
+ERROR : file log : error log 
+WARN : file log : warning log 
+INFO : file log : info log 
+ERROR : file log : error log 
